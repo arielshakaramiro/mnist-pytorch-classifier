@@ -1,0 +1,19 @@
+# Data
+data/
+
+# Model weights (excluded karena ukuran file)
+*.pth
+*.pt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Git workflow templates (panduan internal, tidak perlu di-push)
+git/
